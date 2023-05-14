@@ -11,5 +11,12 @@
 Исользуемые данные в папке `data\raw_data`, предобработанные данные в полном и в сокращенных форматах в папке `data\prepared_data`.
 
   Пример полного формата данных:  
+<img src="./images/image_full_data.png" width="2500" height="250" />
   
-  ![Image_data](https://github.com/Mefeoss/Diploma_MA_with_neural_networks/tree/main/images/image_data.png)
+  Пример сокращенного формата данных:  
+<img src="./images/image_data.png" width="500" height="200" />
+  
+  Все данные находятся по ссылке: https://drive.google.com/drive/u/0/folders/1MFgqQ3WmkVTk22NmeOX1UYWjCvu0l3mL
+  
+#### 2. Кластеризация
+Используемые методы кластеризации:
