@@ -25,3 +25,8 @@
 - Agglomerative Clustering
 - Naive Bayes
 - Random Forest
+
+#### 3. Обучение модели
+_Update soon_
+#### 4. Результаты
+_Update soon_
