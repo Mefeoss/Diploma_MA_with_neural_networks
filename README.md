@@ -10,5 +10,6 @@
 
 Исользуемые данные в папке `data\raw_data`, предобработанные данные в полном и в сокращенных форматах в папке `data\prepared_data`.
 
-  Пример полного формата данных:
+  Пример полного формата данных:  
   
+  ![Image_data](https://github.com/Mefeoss/Diploma_MA_with_neural_networks/tree/main/images/image_data.png)
