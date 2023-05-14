@@ -20,3 +20,8 @@
   
 #### 2. Кластеризация
 Используемые методы кластеризации:
+- K-means
+- DBSCAN
+- Agglomerative Clustering
+- Naive Bayes
+- Random Forest
