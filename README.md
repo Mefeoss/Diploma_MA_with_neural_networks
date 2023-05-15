@@ -2,6 +2,7 @@
 ## Diploma "From neural network analysis to word analysis: methods for developing morphological analysers based on neural network-marked data
 ### Автор: _Феоктистова Эмма Александровна, 4 курс ФиКЛ_
 ### Научный руководитель: _Проф. Ляшевская О. Н._
+### Промежуточный вариант дипломной работы: `Феоктистова_комп.pdf`
   
 #### 1. Данные:
 - Датасет GSD (_train_ - 74900 токенов, _val_ - 11710 токенов, _test_ - 11385 токенов)
