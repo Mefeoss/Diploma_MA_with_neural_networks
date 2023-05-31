@@ -72,4 +72,31 @@
  
 ---
 ### 4. Результаты
-_Update soon_
+Ипользуемые методы для посчета метрик моделей:
+- Levenshtein distance
+- Sequence Matcher
+- Cosine similarity 
+- Jaccard similarity 
+- Jaro-winkler
+
+Полученный процент точности для разных запусков с помощью метода Jaccard similarity:
+  | Датасет, модель, кластеризация | Средний процент точности | Средний процент точности при разбиении на признаки |
+ | --- | --- | --- |
+ | GSD, T5, K-means  | 23,02% | 27,54% | 
+ | Taiga, T5, K-means | 68,11% | 72,72% | 
+ | Taiga, T5, AC  | 69,24% | 73,5% | 
+ | GSD, RuPrompts, K-means | 56,96% | 55,63% | 
+ | GSD, RuPrompts, DBSCAN | 36,46% | 39,13% | 
+ | Taiga, RuPrompts, DBSCAN | 32,73% | 34,75% | 
+ | SynTagRus, RuPrompts, No clusters | 64,13% | 66,95% |
+ 
+ Лучшей была выбрана модель T5, обученная на датасете Taiga, кластеризованного с помощью метода Agglomerative clustering.
+ 
+ Путь к лучшим полученным весам модели: `weights\t5_small_taiga_aggl__results\t5_small_cl_train_80000`
+ 
+ Код для запуска тестирования модели: `Testing.ipynb`
+
+---
+### 5. Предсказание модели
+
+Undate
